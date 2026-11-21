@@ -1,0 +1,12 @@
+name: "MemberPress"
+description: "WordPress membership plugin for selling subscriptions and restricting content. Self-hosted solution with course, digital download, and affiliate features. Requires a paid annual license."
+source_url: "https://memberpress.com/"
+category: "Memberships & Subscriptions"
+tags:
+  - "paid"
+  - "self-hosted"
+  - "wordpress"
+  - "content-restriction"
+icon_url: "https://icons.duckduckgo.com/ip3/memberpress.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://memberpress.com/>\n"
+updated_at: "2026-11-21 10:40"

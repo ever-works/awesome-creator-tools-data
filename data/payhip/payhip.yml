@@ -1,0 +1,12 @@
+name: "Payhip"
+description: "E-commerce platform for selling digital products, memberships, and physical items. Provides a free plan with transaction fees and paid plans with lower fees. Includes VAT handling and affiliate marketing tools."
+source_url: "https://payhip.com/"
+category: "Digital-Product Storefronts"
+tags:
+  - "freemium"
+  - "digital-downloads"
+  - "affiliate-marketing"
+  - "vat"
+icon_url: "https://icons.duckduckgo.com/ip3/payhip.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://payhip.com/>\n"
+updated_at: "2026-11-21 10:40"

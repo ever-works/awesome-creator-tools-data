@@ -1,0 +1,12 @@
+name: "Gumroad"
+description: "Digital storefront for selling downloads, memberships, and physical products. Creators can launch product pages without coding and handle checkout, delivery, and EU VAT. Charges per-transaction fees with no monthly cost on the basic plan."
+source_url: "https://gumroad.com/"
+category: "Digital-Product Storefronts"
+tags:
+  - "freemium"
+  - "api"
+  - "digital-downloads"
+  - "checkout"
+icon_url: "https://icons.duckduckgo.com/ip3/gumroad.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://gumroad.com/>\n"
+updated_at: "2026-11-21 10:40"

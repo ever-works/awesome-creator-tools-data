@@ -1,0 +1,94 @@
+- id: paid
+  name: "Paid"
+- id: api
+  name: "API"
+- id: creator-economy
+  name: "Creator Economy"
+- id: recurring-billing
+  name: "Recurring Billing"
+- id: freemium
+  name: "Freemium"
+- id: digital-downloads
+  name: "Digital Downloads"
+- id: checkout
+  name: "Checkout"
+- id: bookings
+  name: "Bookings"
+- id: link-in-bio
+  name: "Link in Bio"
+- id: enterprise
+  name: "Enterprise"
+- id: marketing-automation
+  name: "Marketing Automation"
+- id: all-in-one
+  name: "All-in-One"
+- id: online-courses
+  name: "Online Courses"
+- id: coaching
+  name: "Coaching"
+- id: certificates
+  name: "Certificates"
+- id: email-marketing
+  name: "Email Marketing"
+- id: tips
+  name: "Tips"
+- id: memberships
+  name: "Memberships"
+- id: donations
+  name: "Donations"
+- id: gated-content
+  name: "Gated Content"
+- id: newsletter-integrations
+  name: "Newsletter Integrations"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: email-newsletters
+  name: "Email Newsletters"
+- id: merchant-of-record
+  name: "Merchant of Record"
+- id: global-tax
+  name: "Global Tax"
+- id: paid-subscriptions
+  name: "Paid Subscriptions"
+- id: writer-tools
+  name: "Writer Tools"
+- id: growth-tools
+  name: "Growth Tools"
+- id: ad-network
+  name: "Ad Network"
+- id: automation
+  name: "Automation"
+- id: landing-pages
+  name: "Landing Pages"
+- id: community
+  name: "Community"
+- id: live-events
+  name: "Live Events"
+- id: wordpress
+  name: "WordPress"
+- id: content-restriction
+  name: "Content Restriction"
+- id: affiliate-marketing
+  name: "Affiliate Marketing"
+- id: vat
+  name: "VAT"
+- id: learning-management
+  name: "Learning Management"
+- id: education
+  name: "Education"
+- id: mailing-lists
+  name: "Mailing Lists"
+- id: web-analytics
+  name: "Web Analytics"
+- id: gdpr
+  name: "GDPR"
+- id: privacy
+  name: "Privacy"
+- id: free
+  name: "Free"
+- id: google
+  name: "Google"
+- id: conversion-tracking
+  name: "Conversion Tracking"

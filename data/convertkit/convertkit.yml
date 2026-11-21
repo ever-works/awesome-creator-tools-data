@@ -1,0 +1,12 @@
+name: "ConvertKit"
+description: "Email marketing platform built for creators, offering newsletters, landing pages, and automation. Includes a free plan for up to 10,000 subscribers and paid tiers for advanced sequences. Supports digital product sales and paid newsletters."
+source_url: "https://convertkit.com/"
+category: "Creator Newsletters"
+tags:
+  - "freemium"
+  - "email-marketing"
+  - "automation"
+  - "landing-pages"
+icon_url: "https://icons.duckduckgo.com/ip3/convertkit.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://convertkit.com/>\n"
+updated_at: "2026-11-21 10:40"

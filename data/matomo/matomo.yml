@@ -1,0 +1,12 @@
+name: "Matomo"
+description: "Open-source web analytics platform offering self-hosted and cloud options. Provides traffic insights, goal tracking, and GDPR-compliant data ownership. Free to self-host; paid cloud plans available."
+source_url: "https://matomo.org/"
+category: "Creator Analytics"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "web-analytics"
+  - "gdpr"
+icon_url: "https://icons.duckduckgo.com/ip3/matomo.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://matomo.org/>\n- Repository: <https://github.com/matomo-org/matomo>\n\nLicense: GPL-3.0.\n"
+updated_at: "2026-11-21 10:40"

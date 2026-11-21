@@ -1,0 +1,12 @@
+- id: memberships-and-subscriptions
+  name: "Memberships & Subscriptions"
+- id: digital-product-storefronts
+  name: "Digital-Product Storefronts"
+- id: course-platforms
+  name: "Course Platforms"
+- id: tips-and-donations
+  name: "Tips & Donations"
+- id: creator-newsletters
+  name: "Creator Newsletters"
+- id: creator-analytics
+  name: "Creator Analytics"

@@ -1,0 +1,12 @@
+name: "Patreon"
+description: "Membership platform for creators to earn recurring income from fans through subscriptions. Creators offer tiered access to exclusive content, community posts, and direct messaging. Charges a percentage of earnings plus payment processing fees."
+source_url: "https://www.patreon.com/"
+category: "Memberships & Subscriptions"
+tags:
+  - "paid"
+  - "api"
+  - "creator-economy"
+  - "recurring-billing"
+icon_url: "https://icons.duckduckgo.com/ip3/www.patreon.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.patreon.com/>\n"
+updated_at: "2026-11-21 10:40"

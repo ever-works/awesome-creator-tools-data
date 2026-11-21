@@ -1,0 +1,12 @@
+name: "Moodle"
+description: "Open-source learning management system for creating online courses and training programs. Self-hosted and highly customizable with plugins and themes. Free to use under the GPL license."
+source_url: "https://moodle.org/"
+category: "Course Platforms"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "learning-management"
+  - "education"
+icon_url: "https://icons.duckduckgo.com/ip3/moodle.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://moodle.org/>\n- Repository: <https://github.com/moodle/moodle>\n\nLicense: GPL-3.0.\n"
+updated_at: "2026-11-21 10:40"

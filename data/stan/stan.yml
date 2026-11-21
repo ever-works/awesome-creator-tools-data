@@ -1,0 +1,12 @@
+name: "Stan"
+description: "Creator platform for selling digital products, bookings, and memberships through a link-in-bio storefront. Popular with Australian creators and supports integrations with email and social channels. Operates on a monthly subscription model with transaction fees."
+source_url: "https://stan.store/"
+category: "Memberships & Subscriptions"
+tags:
+  - "paid"
+  - "digital-downloads"
+  - "bookings"
+  - "link-in-bio"
+icon_url: "https://icons.duckduckgo.com/ip3/stan.store.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://stan.store/>\n"
+updated_at: "2026-11-21 10:40"

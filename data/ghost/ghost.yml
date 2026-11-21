@@ -1,0 +1,13 @@
+name: "Ghost"
+description: "Open-source publishing platform for newsletters and memberships. Creators can run self-hosted instances or use Ghost(Pro) managed hosting. Supports paid subscriptions, email newsletters, and custom themes."
+source_url: "https://ghost.org/"
+category: "Creator Newsletters"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "paid"
+  - "email-newsletters"
+  - "memberships"
+icon_url: "https://icons.duckduckgo.com/ip3/ghost.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://ghost.org/>\n- Repository: <https://github.com/TryGhost/Ghost>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 10:40"

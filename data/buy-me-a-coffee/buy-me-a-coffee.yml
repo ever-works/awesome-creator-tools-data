@@ -1,0 +1,12 @@
+name: "Buy Me a Coffee"
+description: "Donation and membership platform for creators to receive one-time tips and recurring support. Creators can share a link, sell digital downloads, and offer membership tiers. Free to start with platform and processing fees on contributions."
+source_url: "https://www.buymeacoffee.com/"
+category: "Tips & Donations"
+tags:
+  - "freemium"
+  - "tips"
+  - "memberships"
+  - "digital-downloads"
+icon_url: "https://icons.duckduckgo.com/ip3/www.buymeacoffee.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.buymeacoffee.com/>\n"
+updated_at: "2026-11-21 10:40"

@@ -1,0 +1,12 @@
+name: "Thinkific"
+description: "Platform for creating, marketing, and selling online courses and memberships. Includes course builder, quizzes, certificates, and drip content. Offers a free plan and paid plans with no transaction fees on higher tiers."
+source_url: "https://www.thinkific.com/"
+category: "Course Platforms"
+tags:
+  - "freemium"
+  - "api"
+  - "online-courses"
+  - "certificates"
+icon_url: "https://icons.duckduckgo.com/ip3/www.thinkific.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.thinkific.com/>\n"
+updated_at: "2026-11-21 10:40"
