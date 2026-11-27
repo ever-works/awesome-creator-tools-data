@@ -1,0 +1,10 @@
+name: "IGDataHub"
+description: "IGDataHub is an Instagram analytics tool for checking any public profile's followers, engagement rate and top posts, comparing creators, and exporting follower lists to CSV. Lookups are free with no account; full data exports are paid."
+source_url: "https://igdatahub.com/"
+category: "Creator Analytics"
+tags:
+  - "freemium"
+  - "instagram"
+  - "social-analytics"
+icon_url: "https://icons.duckduckgo.com/ip3/igdatahub.com.ico"
+markdown: "## Pricing\n\nFreemium. Free profile, hashtag and place lookups with no account; paid full CSV exports.\n\n## Links\n\n- Website: <https://igdatahub.com/>\n"
